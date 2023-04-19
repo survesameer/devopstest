@@ -1,7 +1,2 @@
 upi code
-<<<<<<< HEAD
 add new workflow today
-=======
-add new workflow
-test
->>>>>>> 3144aec34c20aca23b1629bdba88220dc0b84ea1
